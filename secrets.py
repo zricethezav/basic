@@ -8,3 +8,6 @@ basic_auth = 'http://username:whywouldyouusehttpforpasswords@example.com'
 
 aws_access_key = 'AKIAIOSFODNN7EXAMPLE'
 aws_secret_access_key = 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
+
+# another aws secrets
+aws_access_key_1 = 'AKIAIOSFODNN7EXAMPLE'
